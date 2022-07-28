@@ -38,9 +38,8 @@
 </div>
   
    ##
-
-<div align="center">
-  
+<h3 align="left"> 🐍 Snake Commits 🎮 </h3>
+<div align="center">  
   ![Snake animation](https://github.com/brunokobi/brunokobi/blob/output/github-contribution-grid-snake.svg)
   
 </div>
