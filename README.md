@@ -1,30 +1,24 @@
 ## Olá Mundo 🌎, eu sou <a href="https://www.linkedin.com/in/brunokobi"> Bruno Kobi Valadares de Amorim.</a> 
 
 <div style="display: inline_block">
-<div class="row">
-  <div class="column" style="width: 50%">
+
+  
   <h3 align="left"> 🎓 Formação 🎓 </h3>
   <h4 align="left">🚀 Técnico em Informática - IFES
-  <img align="center"  height="25" width="auto" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFND8qfsi3rQQ/company-logo_200_200/0/1544613582138?e=1667433600&v=beta&t=ci2WvuTRj3Ki_bNbqbyIvYwnj8Z3uUY6zJvOr3BQr0k"></h4> 
+  <img align="center"  height="25" width="auto" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFND8qfsi3rQQ/company-logo_200_200/0/1544613582138?e=1667433600&v=beta&t=ci2WvuTRj3Ki_bNbqbyIvYwnj8Z3uUY6zJvOr3BQr0k">
+  <img  align="right" height="150px"  src="master1.png">
+  </h4> 
   
   <h4 align="left">🚀 Bacharel de Sistemas de Informações - UniSales
-  <img align="center"  height="25" width="auto" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGCURqLw4YrlQ/company-logo_200_200/0/1583848234105?e=1667433600&v=beta&t=eDzT1UdDIFWb3ygxxayTJb1pbeCfkz0E8bu9cFkk6MA"></h4> 
+  <img align="center"  height="25" width="auto" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGCURqLw4YrlQ/company-logo_200_200/0/1583848234105?e=1667433600&v=beta&t=eDzT1UdDIFWb3ygxxayTJb1pbeCfkz0E8bu9cFkk6MA">   
+  </h4> 
   
   <h4 align="left">🚀 Mestrando em Computação Aplicada em Inteligência Artificial - IFES 
   <img align="center"  height="25" width="auto" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFND8qfsi3rQQ/company-logo_200_200/0/1544613582138?e=1667433600&v=beta&t=ci2WvuTRj3Ki_bNbqbyIvYwnj8Z3uUY6zJvOr3BQr0k"></h4>
-   <img  align="right" height="120px"  src="master1.png">
-  </div>
-  <div class="column" style="width: 50%">
-     
-  </div>
   
-</div>
+  </div> 
   
-  
-  
-  
-  
-</div>
+
   
   ##
 
