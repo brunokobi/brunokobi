@@ -11,10 +11,11 @@
   <img align="center"  height="25" width="auto" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGCURqLw4YrlQ/company-logo_200_200/0/1583848234105?e=1667433600&v=beta&t=eDzT1UdDIFWb3ygxxayTJb1pbeCfkz0E8bu9cFkk6MA"></h4> 
   
   <h4 align="left">🚀 Mestrando em Computação Aplicada em Inteligência Artificial - IFES 
-  <img align="center"  height="25" width="auto" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFND8qfsi3rQQ/company-logo_200_200/0/1544613582138?e=1667433600&v=beta&t=ci2WvuTRj3Ki_bNbqbyIvYwnj8Z3uUY6zJvOr3BQr0k"></h4> 
+  <img align="center"  height="25" width="auto" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFND8qfsi3rQQ/company-logo_200_200/0/1544613582138?e=1667433600&v=beta&t=ci2WvuTRj3Ki_bNbqbyIvYwnj8Z3uUY6zJvOr3BQr0k"></h4>
+   <img  align="right" height="120px"  src="master1.png">
   </div>
   <div class="column" style="width: 50%">
-      <img align="center"   src="https://pa1.narvii.com/6701/510cff12a1d8f3c567d6a78bfad3af6e7a4152c7_hq.gif">
+     
   </div>
   
 </div>
