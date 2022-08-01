@@ -33,7 +33,7 @@
   ##
  
   <h3 align="left"> 💻 Tecnologias 👨‍💻 </h3>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 
   <img align="center"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -71,7 +71,7 @@
   ##
   
  <h3 align="left"> ☎️ Contatos: 📣 </h3>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
  <a href="https://www.linkedin.com/in/brunokobi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://web.whatsapp.com/send?phone=5527999452979" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCgK4aPnOTWSTV9pBXEGmvnA" target="_blank">
@@ -85,7 +85,7 @@
   
    ##
 <h3 align="left"> 🐍 Snake Commits 🎮 </h3>
-<div align="center" style="display: inline_block">
+<div>
   
   ![Snake animation](https://github.com/brunokobi/brunokobi/blob/output/github-contribution-grid-snake.svg)
   
