@@ -21,7 +21,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunokobi&label=Profile%20views&color=0e75b6&style=flat" alt="brunokobi" /> </p>
   <img height="150"  width="400" src="https://github-readme-stats.vercel.app/api?username=brunokobi&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&locale=pt-br"/>
   
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunokobi&layout=compact&langs_count=12&theme=highcontrast&custom_title= 🚀 Linguagens   mais  utilizadas  🚀"/>
+  <img height="150" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunokobi&layout=compact&langs_count=12&theme=highcontrast&custom_title= 🚀 Linguagens   mais  utilizadas  🚀"/>
 </div>
  
   <h3 align="left"> 💻 Tecnologias 👨‍💻 </h3>
