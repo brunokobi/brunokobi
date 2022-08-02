@@ -4,7 +4,7 @@
   <h3 align="left"> 🎓 Formação 🎓 </h3>
   <h5 align="left">🚀 Técnico em Informática - IFES
   <img align="center"  height="20" width="auto" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFND8qfsi3rQQ/company-logo_200_200/0/1544613582138?e=1667433600&v=beta&t=ci2WvuTRj3Ki_bNbqbyIvYwnj8Z3uUY6zJvOr3BQr0k">
-  <img  align="right" height="150px"  src="master1.png">
+  <img  align="right" height="120px"  src="master1.png">
   
   
  🚀 Bacharel de Sistemas de Informações - UniSales
