@@ -1,36 +1,27 @@
 ## Olá Mundo 🌎, eu sou <a href="https://www.linkedin.com/in/brunokobi"> Bruno Kobi Valadares de Amorim.</a> 
 
-<div style="display: inline_block">  
-
-  
+<div style="display: inline_block">    
   <h3 align="left"> 🎓 Formação 🎓 </h3>
-  <h4 align="left">🚀 Técnico em Informática - IFES
-  <img align="center"  height="25" width="auto" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFND8qfsi3rQQ/company-logo_200_200/0/1544613582138?e=1667433600&v=beta&t=ci2WvuTRj3Ki_bNbqbyIvYwnj8Z3uUY6zJvOr3BQr0k">
+  <h5 align="left">🚀 Técnico em Informática - IFES
+  <img align="center"  height="20" width="auto" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFND8qfsi3rQQ/company-logo_200_200/0/1544613582138?e=1667433600&v=beta&t=ci2WvuTRj3Ki_bNbqbyIvYwnj8Z3uUY6zJvOr3BQr0k">
   <img  align="right" height="150px"  src="master1.png">
-  </h4> 
   
-  <h4 align="left">🚀 Bacharel de Sistemas de Informações - UniSales
-  <img align="center"  height="25" width="auto" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGCURqLw4YrlQ/company-logo_200_200/0/1583848234105?e=1667433600&v=beta&t=eDzT1UdDIFWb3ygxxayTJb1pbeCfkz0E8bu9cFkk6MA">   
-  </h4> 
   
-  <h4 align="left">🚀 Mestrando em Computação Aplicada em Inteligência Artificial - IFES 
-  <img align="center"  height="25" width="auto" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFND8qfsi3rQQ/company-logo_200_200/0/1544613582138?e=1667433600&v=beta&t=ci2WvuTRj3Ki_bNbqbyIvYwnj8Z3uUY6zJvOr3BQr0k"></h4>
-  
+ 🚀 Bacharel de Sistemas de Informações - UniSales
+  <img align="center"  height="20" width="auto" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGCURqLw4YrlQ/company-logo_200_200/0/1583848234105?e=1667433600&v=beta&t=eDzT1UdDIFWb3ygxxayTJb1pbeCfkz0E8bu9cFkk6MA">   
+  🚀 Mestrando em Computação Aplicada em Inteligência Artificial - IFES 
+  <img align="center"  height="20" width="auto" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFND8qfsi3rQQ/company-logo_200_200/0/1544613582138?e=1667433600&v=beta&t=ci2WvuTRj3Ki_bNbqbyIvYwnj8Z3uUY6zJvOr3BQr0k">
+  </h5>  
   </div> 
   
 
   
   ##
-
-<div align="center" >
-  <a href="https://github.com/brunokobi">
-    <h3 align="left"> 📈 Métricas do Github 📊 </h3>
+<div align="center" >  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunokobi&label=Profile%20views&color=0e75b6&style=flat" alt="brunokobi" /> </p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunokobi&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunokobi&layout=compact&langs_count=12&theme=highcontrast&custom_title= 🚀 Linguagens   mais  utilizadas  🚀&card_width=400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunokobi&layout=compact&langs_count=12&theme=highcontrast&custom_title= 🚀 Linguagens   mais  utilizadas  🚀&card_width=500"/>
 </div>
-  
-  ##
  
   <h3 align="left"> 💻 Tecnologias 👨‍💻 </h3>
 <div style="display: inline_block">
@@ -65,11 +56,8 @@
   <img align="center"  src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> 
    
   <img align="center"  src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"> 
+</div>   
 
-</div> 
-  
-  ##
-  
  <h3 align="left"> ☎️ Contatos: 📣 </h3>
 <div style="display: inline_block">
  <a href="https://www.linkedin.com/in/brunokobi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -83,8 +71,7 @@
     <a href="https://www.facebook.com/bruno.kobi" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
 </div>
   
-   ##
-<h3 align="left"> 🐍 Snake Commits 🎮 </h3>
+  
 <div>
   
   ![Snake animation](https://github.com/brunokobi/brunokobi/blob/output/github-contribution-grid-snake.svg)
