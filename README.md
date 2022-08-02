@@ -17,10 +17,10 @@
 
   
   ##
-<div align="center" >  
+<div align="left" >  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunokobi&label=Profile%20views&color=0e75b6&style=flat" alt="brunokobi" /> </p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunokobi&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunokobi&layout=compact&langs_count=12&theme=highcontrast&custom_title= 🚀 Linguagens   mais  utilizadas  🚀&card_width=450"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunokobi&layout=compact&langs_count=12&theme=highcontrast&custom_title= 🚀 Linguagens   mais  utilizadas  🚀&card_width=400"/>
 </div>
  
   <h3 align="left"> 💻 Tecnologias 👨‍💻 </h3>
