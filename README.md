@@ -1,6 +1,6 @@
 ## Olá Mundo 🌎, eu sou <a href="https://www.linkedin.com/in/brunokobi"> Bruno Kobi Valadares de Amorim.</a> 
 
-<div style="display: inline_block"> 
+<div style="display: inline_block">  
 
   
   <h3 align="left"> 🎓 Formação 🎓 </h3>
