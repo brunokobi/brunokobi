@@ -71,7 +71,6 @@
    <a href="https://web.whatsapp.com/send?phone=5527999452979" target="_blank"><img src="https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425" target="_blank"></a>
     <a href="https://www.facebook.com/bruno.kobi" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
 </div>
-<audio loop id="musica" src="musica.mp3" type="audio/mpeg" preload="auto" /> 
   
   
 <div>
