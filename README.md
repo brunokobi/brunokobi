@@ -3,14 +3,14 @@
 <div style="display: inline_block">    
   <h3 align="left"> 🎓 Formação 🎓 </h3>
   <h5 align="left">🚀 Técnico em Informática - IFES
-  <img align="center"  height="20" width="auto" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFND8qfsi3rQQ/company-logo_200_200/0/1544613582138?e=1667433600&v=beta&t=ci2WvuTRj3Ki_bNbqbyIvYwnj8Z3uUY6zJvOr3BQr0k">
+  <img align="center"  height="20" width="auto" src="https://www.infoescola.com/wp-content/uploads/2016/11/IFES.jpg">
   <img  align="right" height="120px"  src="master1.png">
   
   
  🚀 Bacharel em Sistemas de Informações - UniSales
-  <img align="center"  height="20" width="auto" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGCURqLw4YrlQ/company-logo_200_200/0/1583848234105?e=1667433600&v=beta&t=eDzT1UdDIFWb3ygxxayTJb1pbeCfkz0E8bu9cFkk6MA">   
+  <img align="center"  height="20" width="auto" src="https://d1fdloi71mui9q.cloudfront.net/TVkWSB26STafjKhh2xTI_bc4b1343f12e33efb9dd955bc69243a41.png">   
   🚀 Mestrando em Computação Aplicada em Inteligência Artificial - IFES 
-  <img align="center"  height="20" width="auto" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFND8qfsi3rQQ/company-logo_200_200/0/1544613582138?e=1667433600&v=beta&t=ci2WvuTRj3Ki_bNbqbyIvYwnj8Z3uUY6zJvOr3BQr0k">
+  <img align="center"  height="20" width="auto" src="https://www.infoescola.com/wp-content/uploads/2016/11/IFES.jpg">
   </h5>  
   </div> 
   
