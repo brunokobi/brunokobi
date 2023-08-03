@@ -50,6 +50,7 @@
   <img align="center"  src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center"  src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"> 
   <img align="center"  src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"> 
+  <img align="center"  src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
   <img align="center"  src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"> 
   <img align="center"  src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"> 
   <img align="center"  src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"> 
@@ -69,7 +70,8 @@
  target="_blank"></a> 
  <a href="mailto:brunokobi@gmail.com" target="_blank">  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
    <a href="https://web.whatsapp.com/send?phone=5527999452979" target="_blank"><img src="https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425" target="_blank"></a>
-    <a href="https://www.facebook.com/bruno.kobi" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
+    <a href="https://www.facebook.com/bruno.kobi" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+   <a href="https://brunokobi.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a> 
 </div>
   
   
