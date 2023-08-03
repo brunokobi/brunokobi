@@ -74,11 +74,13 @@
   
   
 
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
+<div style="display: flex; justify-content: center; align-items: center; border: 2px solid white; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); max-width: 600px; margin: 0 auto; padding: 20px;">
+  <img src="https://github.com/brunokobi/brunokobi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</div>
+
+
+   
+
   
 
