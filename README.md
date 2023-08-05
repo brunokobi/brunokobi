@@ -73,6 +73,7 @@
     <a href="https://www.facebook.com/bruno.kobi" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
    <a href="https://brunokobi.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a> 
 </div>
+ <img  align="right" height="120px"  src="loading.gif">
   
   
 
