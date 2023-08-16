@@ -1,7 +1,7 @@
 ## Olá Mundo 🌎, eu sou <a href="https://www.linkedin.com/in/brunokobi"> Bruno Kobi Valadares de Amorim.</a> 
 
 <div style="display: inline_block">    
-  <h3 align="left"> 🎓 Formação 🎓 </h3>
+  <h2 align="left"> 🎓 Formação 🎓 </h2>
   <h5 align="left">🚀 Técnico em Informática - IFES
   <img align="center"  height="20" width="auto" src="https://www.infoescola.com/wp-content/uploads/2016/11/IFES.jpg">
   <img  align="right" height="120px"  src="master1.gif">
@@ -18,13 +18,13 @@
   
   ##
 <div align="left" >  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunokobi&label=Profile%20views&color=0e75b6&style=flat" alt="brunokobi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunokobi&label=VISITAS&style=for-the-badge" alt="brunokobi" /> </p>
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=brunokobi&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&locale=pt-br"/>
   
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunokobi&layout=compact&langs_count=12&theme=highcontrast"/>
 </div>
  
-  <h3 align="left"> 💻 Tecnologias 👨‍💻 </h3>
+  ##  💻 Tecnologias 👨‍💻 
 <div style="display: inline_block">
 
   <img align="center"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -60,7 +60,7 @@
   <img align="center"  src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"> 
 </div>   
 
- <h3 align="left"> ☎️ Contatos: 📣 </h3>
+ ## ☎️ Contatos: 📣
 <div style="display: inline_block">
  <a href="https://www.linkedin.com/in/brunokobi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://web.whatsapp.com/send?phone=5527999452979" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
@@ -73,14 +73,20 @@
     <a href="https://www.facebook.com/bruno.kobi" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
    <a href="https://brunokobi.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a> 
 </div>
- <img  align="center"  height="auto" width="80%"  src="loading.gif">
-  
-  
 
+ ##   😂 Aqui está uma piada aleatória que vai fazer você rir! 🤣
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<div style="display: flex; justify-content: center; align-items: center; border: 2px solid white; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); max-width: 600px; margin: 0 auto; padding: 20px;">
+  ##   🐍 Snake commits Github! 🐍
   <img src="https://github.com/brunokobi/brunokobi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
+
+ 
+
+  
+  
+
+
+
 
 
    
