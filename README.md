@@ -17,6 +17,16 @@ Construo desde interfaces React/TypeScript até pipelines multi-agente com n8n e
 
 <br>
 
+## 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Fullstack Invasion** | Portfólio 3D interativo e gamificado com física (Rapier) onde você controla um UFO. | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) | [Ver Código 🛸](https://github.com/brunokobi/brunobokigame) |
+| **AI Portfolio Hub** | Portfólio Full Stack orientado a eventos. Integra Supabase, PostgreSQL, n8n e Gemini AI para automações. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![n8n](https://img.shields.io/badge/n8n-%23FF6C37?style=flat&logo=n8n&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white) | [Ver Código 🤖](https://github.com/brunokobi/projeto-portifolio) |
+| **BPF Check** | Aplicação Web Progressiva (PWA) para gerenciamento e execução de auditorias sanitárias (RDC 216). | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white) | [Ver Código 📋](https://github.com/brunokobi/bpfcheck) |
+
+<br>
+
 ## 🎓 Formação Acadêmica
 
 - 🚀 **Aluno Especial — Mestrado em TI (IA)** — UFES (2025–2026)
