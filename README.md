@@ -1,137 +1,196 @@
-# Olá Mundo 🌎, eu sou [Bruno Kobi](https://www.linkedin.com/in/brunokobi)
+<div align="center">
 
-Desenvolvedor Full Stack com foco em front-end e integração de IA em projetos reais.
-Construo desde interfaces React/TypeScript até pipelines multi-agente com n8n e LangChain.
+# ` B R U N O · K O B I `
+
+**Full Stack Developer** · IA & Automação · Serra, ES — Brasil
+
+*Construo desde interfaces React/TypeScript até pipelines multi-agente com n8n e LangChain.*
+*Do pixel ao pipeline — cada camada da stack tem minha assinatura.*
 
 <br>
 
-<div align="center">
-  <a href="https://brunokobi3d.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🛸%20Portfólio%203D-Fullstack%20Invasion-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Portfólio 3D" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://brunokobi.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/💻%20Portfólio-Bruno%20Kobi-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio" />
-  </a>
+[![Portfólio 3D](https://img.shields.io/badge/🛸_Fullstack_Invasion-Portfólio_3D-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://brunokobi3d.netlify.app/)
+&nbsp;&nbsp;
+[![Portfólio](https://img.shields.io/badge/💻_brunokobi.dev-Portfólio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://brunokobi.netlify.app/)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunokobi)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:brunokobi2@hotmail.com)
+
 </div>
 
-<br>
+---
 
 ## 🚀 Projetos em Destaque
 
-| Projeto | Descrição | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **Portfolio Bruno** | Portfólio Full Stack orientado a eventos. Integra automação de feeds globais, mapas e IA. | <img src="https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" /> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/ArcGIS-FF2D20?style=for-the-badge&logo=esri&logoColor=white" /> | [Ver Código 🤖](https://github.com/brunokobi/projeto-portifolio) |
-| **Fullstack Invasion** | Portfólio 3D interativo e gamificado com física (Rapier) onde você controla um UFO. | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> | [Ver Código 🛸](https://github.com/brunokobi/brunobokigame) |
-| **Frota Realtime RJ** | Monitoramento GPS WebGL de alta performance da frota do Rio (>4k pontos simultâneos). Arquitetura Zero-bottleneck. | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/MapLibre-0081C6?style=for-the-badge&logo=maplibre&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify_Edge-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> | [Ver Código 🗺️](https://github.com/brunokobi/frotarealtime) |
-| **Arkon: A Fenda do Aglomerado** | Browser game multiplayer 2D top-down estilo Tibia — grinding, PvP, facções e sátira política brasileira. |<img src="https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Phaser_4-E91E63?style=for-the-badge" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> | [Ver Código 🎮](https://github.com/brunokobi/arkon-game) |
-| **BPF Check** | Aplicação móvel auditora (PWA) Offline-First para gerenciamento e execução de vistorias sanitárias baseadas na RDC 216. | <img src="https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/PWA-Offline--First-6D28D9?style=for-the-badge" /> | [Ver Código 📋](https://github.com/brunokobi/bpfcheck) |
-<br>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🎓 Formação Acadêmica
+### 🛸 Fullstack Invasion
+Portfólio **3D interativo e gamificado** — controle um UFO com física real (Rapier) enquanto explora meu trabalho num ambiente WebGL imersivo.
 
-- 🚀 **Aluno Especial — Mestrado em TI (IA)** — UFES (2025–2026)
-- 📚 **Mestrado em Computação Aplicada (IA)** — IFES (2022–2024, incompleto)
-- 🎓 **Bacharel em Sistemas de Informação** — UniSales (2017–2020)
-- 💻 **Técnico em Informática** — IFES (2003–2004)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-<br>
+[→ Ver Código](https://github.com/brunokobi/brunobokigame)
 
-## 📊 Estatísticas GitHub
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=brunokobi&label=VISITAS&style=for-the-badge&color=blue" alt="Views do Perfil" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com/?user=brunokobi&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats" />
-</div>
+### 🗺️ Frota Realtime RJ
+**Monitoramento GPS WebGL** de alta performance da frota do Rio — +4.000 pontos simultâneos. Arquitetura Zero-bottleneck.
 
-<br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MapLibre](https://img.shields.io/badge/MapLibre-0081C6?style=flat-square&logo=maplibre&logoColor=white)
+![Netlify Edge](https://img.shields.io/badge/Netlify_Edge-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
-## 💻 Tech Stack
+[→ Ver Código](https://github.com/brunokobi/frotarealtime)
 
-### 🎨 Frontend & Mobile
-<div style="display: flex; gap: 5px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white">
-  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  <img src="https://img.shields.io/badge/angular.js-%23E23237?style=for-the-badge&logo=angularjs&logoColor=white">
-</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<br>
+### 💻 Portfolio Bruno
+Full Stack **orientado a eventos** — feeds globais, mapas interativos e IA integrada numa experiência coesa.
 
-### 🤖 Inteligência Artificial & Automação
-<div style="display: flex; gap: 5px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/n8n-%23FF6C37?style=for-the-badge&logo=n8n&logoColor=white">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-</div>
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google%20gemini&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-FF2D20?style=flat-square&logo=esri&logoColor=white)
 
-<br>
+[→ Ver Código](https://github.com/brunokobi/projeto-portifolio)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Arkon: A Fenda do Aglomerado
+**Browser game multiplayer 2D** top-down estilo Tibia — grinding, PvP, facções e sátira política brasileira.
+
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Phaser 4](https://img.shields.io/badge/Phaser_4-E91E63?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+[→ Ver Código](https://github.com/brunokobi/arkon-game)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📋 BPF Check
+**PWA Offline-First** auditora para vistorias sanitárias (RDC 216). SUS Score 81.4, desenvolvida para o IFES.
+
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-Offline--First-6D28D9?style=flat-square)
+
+[→ Ver Código](https://github.com/brunokobi/bpfcheck)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AmaRosaChat
+**Chatbot multi-agente** para gestão de transporte condominial — memória conversacional nativa com n8n Data Table e roteamento inteligente de rotas.
+
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+*projeto privado · Vennx*
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Tech Stack
+
+### 🎨 Frontend & 3D
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white)
+![Angular](https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white)
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+
+### 🤖 IA & Automação
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google%20gemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ### ⚙️ Backend & APIs
-<div style="display: flex; gap: 5px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/express.js-%23404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223?style=for-the-badge&logo=codeIgniter&logoColor=white">
-  <img src="https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeIgniter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-<br>
+### 🗄️ Dados & Infra
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
 
-### 🗄️ Bancos de Dados & Infraestrutura
-<div style="display: flex; gap: 5px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-  <img src="https://img.shields.io/badge/postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-%2300f?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
-</div>
+---
 
-<br>
+## 🎓 Formação
 
-## ☎️ Conecte-se Comigo
+| | Curso | Instituição | Período |
+|:---:|:---|:---|:---:|
+| 🚀 | Aluno Especial — Mestrado em TI (IA) | UFES | 2025–2026 |
+| 📚 | Mestrado em Computação Aplicada (IA) | IFES | 2022–2024 |
+| 🎓 | Bacharel em Sistemas de Informação | UniSales | 2017–2020 |
+| 💻 | Técnico em Informática | IFES | 2003–2004 |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/brunokobi" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="mailto:brunokobi2@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="https://github.com/brunokobi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="https://brunokobi.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-  </a>
-</div>
 
-<br>
+<img src="https://komarev.com/ghpvc/?username=brunokobi&label=VISITAS+AO+PERFIL&style=flat-square&color=00C7B7" alt="Profile views" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=brunokobi&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 
 <div align="center">
 
 ### 🐍 Snake Commits
-<img src="https://github.com/brunokobi/brunokobi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+
+<img src="https://github.com/brunokobi/brunokobi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<br>
+
+*— do pixel ao pipeline —*
 
 </div>
