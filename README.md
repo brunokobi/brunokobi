@@ -99,15 +99,16 @@ Full Stack **orientado a eventos** — feeds globais, mapas interativos e IA int
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AmaRosaChat
-**Chatbot multi-agente** para gestão de transporte condominial — memória conversacional nativa com n8n Data Table e roteamento inteligente de rotas.
+### 🤖 chatBruno
+**Assistente virtual Multi-Agente com RAG**. Roteamento estruturado por domínios, integração nativa n8n Chat UI e busca semântica com PostgreSQL (pgvector) rodando em AWS EC2.
 
 ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-*projeto privado · Vennx*
+[→ Ver Código](https://github.com/brunokobi)
 
 </td>
 </tr>
