@@ -6,9 +6,9 @@
 
 <h1>👽 B R U N O · K O B I 👽</h1>
 
-<img src="https://img.shields.io/badge/FULL_STACK_DEVELOPER-00FF41?style=flat-square&labelColor=0D0208" />
-<img src="https://img.shields.io/badge/IA_%26_AUTOMAÇÃO-00FF41?style=flat-square&labelColor=0D0208" />
-<img src="https://img.shields.io/badge/SERRA,_ES_--_BR-00FF41?style=flat-square&labelColor=0D0208" />
+<img src="https://img.shields.io/badge/FULL_STACK_DEVELOPER-006622?style=flat-square&labelColor=006622" />
+<img src="https://img.shields.io/badge/IA_%26_AUTOMAÇÃO-006622?style=flat-square&labelColor=006622" />
+<img src="https://img.shields.io/badge/SERRA,_ES_--_BR-006622?style=flat-square&labelColor=006622" />
 
 <br><br>
 
@@ -35,10 +35,10 @@
 
 <br>
 
-<a href="https://brunokobi.netlify.app/"><img src="https://img.shields.io/badge/💻_BRUNOKOBI.DEV-PORTFÓLIO-00FF41?style=for-the-badge&labelColor=0D0208" /></a>
-<a href="https://brunokobi3d.netlify.app/"><img src="https://img.shields.io/badge/🛸_FULLSTACK_INVASION-PORTFÓLIO_3D-00FF41?style=for-the-badge&labelColor=0D0208" /></a>
-<a href="https://www.linkedin.com/in/brunokobi"><img src="https://img.shields.io/badge/LINKEDIN-CONECTAR-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0D0208" /></a>
-<a href="mailto:brunokobi2@hotmail.com"><img src="https://img.shields.io/badge/EMAIL-TRANSMITIR_SINAL-00FF41?style=for-the-badge&labelColor=0D0208" /></a>
+<a href="https://brunokobi.netlify.app/"><img src="https://img.shields.io/badge/💻_BRUNOKOBI.DEV-PORTFÓLIO-006622?style=for-the-badge&labelColor=006622" /></a>
+<a href="https://brunokobi3d.netlify.app/"><img src="https://img.shields.io/badge/🛸_FULLSTACK_INVASION-PORTFÓLIO_3D-006622?style=for-the-badge&labelColor=006622" /></a>
+<a href="https://www.linkedin.com/in/brunokobi"><img src="https://img.shields.io/badge/LINKEDIN-CONECTAR-006622?style=for-the-badge&labelColor=006622" /></a>
+<a href="mailto:brunokobi2@hotmail.com"><img src="https://img.shields.io/badge/EMAIL-TRANSMITIR_SINAL-006622?style=for-the-badge&labelColor=006622" /></a>
 
 <br><br>
 
