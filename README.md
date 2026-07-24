@@ -1,21 +1,53 @@
 <div align="center">
 
-# ` B R U N O · K O B I `
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0208&height=120&section=header" width="100%" />
 
-**Full Stack Developer** · IA & Automação · Serra, ES — Brasil
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+BRUNO_KOBI.exe+inicializado...;%3E+carregando+stack...+%5B%E2%9C%93%5D;%3E+sinal+detectado+%F0%9F%9B%B8;%3E+conex%C3%A3o+estabelecida" alt="Typing SVG" />
 
-*Construo desde interfaces React/TypeScript até pipelines multi-agente com n8n e LangChain.*
-*Do pixel ao pipeline — cada camada da stack tem minha assinatura.*
+<h1>👽 B R U N O · K O B I 👽</h1>
+
+<img src="https://img.shields.io/badge/FULL_STACK_DEVELOPER-00FF41?style=flat-square&labelColor=0D0208" />
+<img src="https://img.shields.io/badge/IA_%26_AUTOMAÇÃO-00FF41?style=flat-square&labelColor=0D0208" />
+<img src="https://img.shields.io/badge/SERRA,_ES_--_BR-00FF41?style=flat-square&labelColor=0D0208" />
+
+<br><br>
+
+<pre>
+┌─[ SYSTEM.LOG ]─────────────────────────────────────────┐
+│                                                         │
+│   > INICIALIZANDO MÓDULO: DESENVOLVEDOR                │
+│                                                         │
+│   [✓] Interfaces React / TypeScript                    │
+│   [✓] Pipelines multi-agente (n8n + LangChain)         │
+│   [✓] Automações & Integrações de API                  │
+│   [✓] Arquitetura Full Stack (Front → Back → Infra)    │
+│   [✓] IA aplicada a fluxos de negócio                  │
+│                                                         │
+│   > STATUS: Do pixel ao pipeline — cada camada         │
+│     da stack tem minha assinatura.                     │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+</pre>
 
 <br>
 
-[![Portfólio 3D](https://img.shields.io/badge/🛸_Fullstack_Invasion-Portfólio_3D-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://brunokobi3d.netlify.app/)
-&nbsp;&nbsp;
-[![Portfólio](https://img.shields.io/badge/💻_brunokobi.dev-Portfólio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://brunokobi.netlify.app/)
-&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunokobi)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:brunokobi2@hotmail.com)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br>
+
+<a href="https://brunokobi.netlify.app/"><img src="https://img.shields.io/badge/💻_BRUNOKOBI.DEV-PORTFÓLIO-00FF41?style=for-the-badge&labelColor=0D0208" /></a>
+<a href="https://brunokobi3d.netlify.app/"><img src="https://img.shields.io/badge/🛸_FULLSTACK_INVASION-PORTFÓLIO_3D-00FF41?style=for-the-badge&labelColor=0D0208" /></a>
+<a href="https://www.linkedin.com/in/brunokobi"><img src="https://img.shields.io/badge/LINKEDIN-CONECTAR-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0D0208" /></a>
+<a href="mailto:brunokobi2@hotmail.com"><img src="https://img.shields.io/badge/EMAIL-TRANSMITIR_SINAL-00FF41?style=for-the-badge&labelColor=0D0208" /></a>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<sub>root@bruno-kobi:~$ whoami</sub><br>
+<sub>> engenheiro de software abduzido pela automação 🛸</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0208&height=100&section=footer" width="100%" />
 
 </div>
 
@@ -24,6 +56,40 @@
 ## 🚀 Projetos em Destaque
 
 <table>
+
+ <tr>
+  <td width="50%" valign="top">
+
+  ### 🗺️ Dataset Grande Vitória (ES)
+  Base aberta de **344 mil empresas** do ES — cadastro, sócios, sanções, dívida ativa e **flags de risco** (trabalho escravo, CEPIM,
+  IBAMA), cruzados de fontes públicas. Com **dashboard, API REST e MCP** (Claude) + classificação de leads.
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+  ![MCP](https://img.shields.io/badge/MCP-8A2BE2?style=flat-square)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+  [→ Ver Código](https://github.com/brunokobi/projeto_grande_vitoria_empresas)
+
+  </td>
+  <td width="50%" valign="top">
+
+  ### 🏗️ Pipeline de Extração (GV)
+  **ETL retomável e idempotente** que constrói o dataset — baixa e cruza por CNPJ RFB, JUCEES, PGFN, CGU (CEIS/CNEP/CEPIM/Leniência),
+  IBAMA, MTE, DataJud/CNJ e OpenStreetMap, publicando o resultado via GitHub Release.
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+  ![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=flat-square&logo=python&logoColor=white)
+  ![ETL](https://img.shields.io/badge/ETL-Pipeline-FF6C37?style=flat-square)
+
+  [→ Ver Código](https://github.com/brunokobi/grande_vitoria_empresas_extracao)
+
+  </td>
+  </tr>
+  
 <tr>
 <td width="50%" valign="top">
 
