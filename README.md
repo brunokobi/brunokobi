@@ -79,19 +79,19 @@
   </td>
   <td width="50%" valign="top">
 
-  ### 🏗️ [Pipeline de Extração (GV)](https://github.com/brunokobi/grande_vitoria_empresas_extracao)
-  **ETL retomável e idempotente** que constrói o dataset — baixa e cruza por CNPJ RFB, JUCEES, PGFN, CGU (CEIS/CNEP/CEPIM/Leniência),
-  IBAMA, MTE, DataJud/CNJ e OpenStreetMap, publicando o resultado via GitHub Release.
+  ### 🏆 [Tabela ACFDV](https://github.com/brunokobi/tabela_acfdv)
+  **Organizador de campeonatos de e-futebol** (EA Sports FC, eFootball) do zero — sorteio automático de grupos e mata-mata, tabela
+  de classificação com critérios de desempate configuráveis, chaveamento visual e suporte a ida e volta. 100% client-side, sem backend.
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-  ![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=flat-square&logo=python&logoColor=white)
-  ![ETL](https://img.shields.io/badge/ETL-Pipeline-FF6C37?style=flat-square)
+  ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+  ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
 
-  📦 `brunokobi/grande_vitoria_empresas_extracao`
+  📦 `brunokobi/tabela_acfdv`
 
-  [![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/grande_vitoria_empresas_extracao)
+  [![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/tabela_acfdv)
 
   </td>
   </tr>
