@@ -53,6 +53,8 @@
 
 ---
 
+<sub>root@bruno-kobi:~$ ls -la ~/projetos --sort=destaque</sub>
+
 ## 🚀 Projetos em Destaque
 
 <table>
@@ -60,7 +62,7 @@
  <tr>
   <td width="50%" valign="top">
 
-  ### 🗺️ Dataset Grande Vitória (ES)
+  ### 🗺️ [Dataset Grande Vitória (ES)](https://github.com/brunokobi/projeto_grande_vitoria_empresas)
   Base aberta de **344 mil empresas** do ES — cadastro, sócios, sanções, dívida ativa e **flags de risco** (trabalho escravo, CEPIM,
   IBAMA), cruzados de fontes públicas. Com **dashboard, API REST e MCP** (Claude) + classificação de leads.
 
@@ -70,12 +72,14 @@
   ![MCP](https://img.shields.io/badge/MCP-8A2BE2?style=flat-square)
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-  [→ Ver Código](https://github.com/brunokobi/projeto_grande_vitoria_empresas)
+  📦 `brunokobi/projeto_grande_vitoria_empresas`
+
+  [![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/projeto_grande_vitoria_empresas)
 
   </td>
   <td width="50%" valign="top">
 
-  ### 🏗️ Pipeline de Extração (GV)
+  ### 🏗️ [Pipeline de Extração (GV)](https://github.com/brunokobi/grande_vitoria_empresas_extracao)
   **ETL retomável e idempotente** que constrói o dataset — baixa e cruza por CNPJ RFB, JUCEES, PGFN, CGU (CEIS/CNEP/CEPIM/Leniência),
   IBAMA, MTE, DataJud/CNJ e OpenStreetMap, publicando o resultado via GitHub Release.
 
@@ -85,15 +89,17 @@
   ![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=flat-square&logo=python&logoColor=white)
   ![ETL](https://img.shields.io/badge/ETL-Pipeline-FF6C37?style=flat-square)
 
-  [→ Ver Código](https://github.com/brunokobi/grande_vitoria_empresas_extracao)
+  📦 `brunokobi/grande_vitoria_empresas_extracao`
+
+  [![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/grande_vitoria_empresas_extracao)
 
   </td>
   </tr>
-  
+
 <tr>
 <td width="50%" valign="top">
 
-### 🛸 Fullstack Invasion
+### 🛸 [Fullstack Invasion](https://github.com/brunokobi/brunobokigame)
 Portfólio **3D interativo e gamificado** — controle um UFO com física real (Rapier) enquanto explora meu trabalho num ambiente WebGL imersivo.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -102,26 +108,30 @@ Portfólio **3D interativo e gamificado** — controle um UFO com física real (
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-[→ Ver Código](https://github.com/brunokobi/brunobokigame)
+📦 `brunokobi/brunobokigame`
+
+[![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/brunobokigame)
 
 </td>
 <td width="50%" valign="top">
 
-### 🗺️ Frota Realtime RJ
+### 🗺️ [Frota Realtime RJ](https://github.com/brunokobi/frotarealtime)
 **Monitoramento GPS WebGL** de alta performance da frota do Rio — +4.000 pontos simultâneos. Arquitetura Zero-bottleneck.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MapLibre](https://img.shields.io/badge/MapLibre-0081C6?style=flat-square&logo=maplibre&logoColor=white)
 ![Netlify Edge](https://img.shields.io/badge/Netlify_Edge-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
-[→ Ver Código](https://github.com/brunokobi/frotarealtime)
+📦 `brunokobi/frotarealtime`
+
+[![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/frotarealtime)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Portfolio Bruno
+### 💻 [Portfolio Bruno](https://github.com/brunokobi/projeto-portifolio)
 Full Stack **orientado a eventos** — feeds globais, mapas interativos e IA integrada numa experiência coesa.
 
 ![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -131,12 +141,14 @@ Full Stack **orientado a eventos** — feeds globais, mapas interativos e IA int
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google%20gemini&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-FF2D20?style=flat-square&logo=esri&logoColor=white)
 
-[→ Ver Código](https://github.com/brunokobi/projeto-portifolio)
+📦 `brunokobi/projeto-portifolio`
+
+[![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/projeto-portifolio)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 Arkon: A Fenda do Aglomerado
+### 🎮 [Arkon: A Fenda do Aglomerado](https://github.com/brunokobi/arkon-game)
 **Browser game multiplayer 2D** top-down estilo Tibia — grinding, PvP, facções e sátira política brasileira.
 
 ![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -144,14 +156,16 @@ Full Stack **orientado a eventos** — feeds globais, mapas interativos e IA int
 ![Phaser 4](https://img.shields.io/badge/Phaser_4-E91E63?style=flat-square)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-[→ Ver Código](https://github.com/brunokobi/arkon-game)
+📦 `brunokobi/arkon-game`
+
+[![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/arkon-game)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📋 BPF Check
+### 📋 [BPF Check](https://github.com/brunokobi/bpfcheck)
 **PWA Offline-First** auditora para vistorias sanitárias (RDC 216). SUS Score 81.4, desenvolvida para o IFES.
 
 ![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -160,12 +174,14 @@ Full Stack **orientado a eventos** — feeds globais, mapas interativos e IA int
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-Offline--First-6D28D9?style=flat-square)
 
-[→ Ver Código](https://github.com/brunokobi/bpfcheck)
+📦 `brunokobi/bpfcheck`
+
+[![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/bpfcheck)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 chatBruno
+### 🤖 [chatBruno](https://github.com/brunokobi)
 **Assistente virtual Multi-Agente com RAG**. Roteamento estruturado por domínios, integração nativa n8n Chat UI e busca semântica com PostgreSQL (pgvector) rodando em AWS EC2.
 
 ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white)
@@ -174,13 +190,19 @@ Full Stack **orientado a eventos** — feeds globais, mapas interativos e IA int
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-[→ Ver Código](https://github.com/brunokobi)
+📦 `brunokobi/chatbruno`
+
+[![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi)
 
 </td>
 </tr>
 </table>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
+<sub>root@bruno-kobi:~$ cat ~/skills/stack.txt</sub>
 
 ## 🧠 Tech Stack
 
@@ -223,7 +245,11 @@ Full Stack **orientado a eventos** — feeds globais, mapas interativos e IA int
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
+<sub>root@bruno-kobi:~$ cat ~/academico/log.txt</sub>
 
 ## 🎓 Formação
 
@@ -240,11 +266,11 @@ Full Stack **orientado a eventos** — feeds globais, mapas interativos e IA int
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=brunokobi&label=VISITAS+AO+PERFIL&style=flat-square&color=00C7B7" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=brunokobi&label=VISITAS+AO+PERFIL&style=flat-square&color=00FF41" alt="Profile views" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=brunokobi&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=brunokobi&theme=highcontrast&hide_border=true&background=0D0208&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
 
 </div>
 
@@ -260,4 +286,8 @@ Full Stack **orientado a eventos** — feeds globais, mapas interativos e IA int
 
 *— do pixel ao pipeline —*
 
+<sub>root@bruno-kobi:~$ exit</sub>
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0208&height=100&section=footer" width="100%" />
