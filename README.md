@@ -99,6 +99,20 @@
 <tr>
 <td width="50%" valign="top">
 
+### 🔤 [Letrinhas Mágicas](https://github.com/brunokobi/benjamimteclado)
+App infantil pra aprender letras apertando o teclado — letra gigante animada, **24 bichinhos** sorteados com som próprio, fala em voz (pt-BR), rastro de estrelas e cenário dia/entardecer/noite automático. Feito com carinho pro meu filho.
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+📦 `brunokobi/benjamimteclado`
+
+[![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/benjamimteclado)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🛸 [Fullstack Invasion](https://github.com/brunokobi/brunobokigame)
 Portfólio **3D interativo e gamificado** — controle um UFO com física real (Rapier) enquanto explora meu trabalho num ambiente WebGL imersivo.
 
@@ -113,6 +127,8 @@ Portfólio **3D interativo e gamificado** — controle um UFO com física real (
 [![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/brunobokigame)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🗺️ [Frota Realtime RJ](https://github.com/brunokobi/frotarealtime)
@@ -127,8 +143,6 @@ Portfólio **3D interativo e gamificado** — controle um UFO com física real (
 [![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/frotarealtime)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 💻 [Portfolio Bruno](https://github.com/brunokobi/projeto-portifolio)
@@ -146,6 +160,8 @@ Full Stack **orientado a eventos** — feeds globais, mapas interativos e IA int
 [![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/projeto-portifolio)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🎮 [Arkon: A Fenda do Aglomerado](https://github.com/brunokobi/arkon-game)
@@ -161,8 +177,6 @@ Full Stack **orientado a eventos** — feeds globais, mapas interativos e IA int
 [![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/arkon-game)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📋 [BPF Check](https://github.com/brunokobi/bpfcheck)
@@ -179,6 +193,8 @@ Full Stack **orientado a eventos** — feeds globais, mapas interativos e IA int
 [![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/bpfcheck)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🤖 [chatBruno](https://github.com/brunokobi)
