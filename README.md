@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0208&height=120&section=header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+BRUNO_KOBI.exe+inicializado...;%3E+carregando+stack...+%5B%E2%9C%93%5D;%3E+sinal+detectado+%F0%9F%9B%B8;%3E+conex%C3%A3o+estabelecida" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+BRUNO_KOBI.exe+inicializado...;%3E+carregando+stack...+%5B%E2%9C%93%5D;%3E+JARVIS+online+%F0%9F%8E%99%EF%B8%8F;%3E+sinal+detectado+%F0%9F%9B%B8;%3E+conex%C3%A3o+estabelecida" alt="Typing SVG" />
 
 <h1>👽 B R U N O · K O B I 👽</h1>
 
 <img src="https://img.shields.io/badge/FULL_STACK_DEVELOPER-006622?style=flat-square&labelColor=006622" />
-<img src="https://img.shields.io/badge/IA_%26_AUTOMAÇÃO-006622?style=flat-square&labelColor=006622" />
+<img src="https://img.shields.io/badge/AGENTES_DE_IA_%26_AUTOMAÇÃO-006622?style=flat-square&labelColor=006622" />
 <img src="https://img.shields.io/badge/SERRA,_ES_--_BR-006622?style=flat-square&labelColor=006622" />
 
 <br><br>
@@ -18,10 +18,11 @@
 │   > INICIALIZANDO MÓDULO: DESENVOLVEDOR                │
 │                                                         │
 │   [✓] Interfaces React / TypeScript                    │
-│   [✓] Pipelines multi-agente (n8n + LangChain)         │
-│   [✓] Automações & Integrações de API                  │
-│   [✓] Arquitetura Full Stack (Front → Back → Infra)    │
-│   [✓] IA aplicada a fluxos de negócio                  │
+│   [✓] Agentes de IA e pipelines multi-agente (n8n)     │
+│   [✓] Voz self-hosted: Whisper + Piper na VPS          │
+│   [✓] Automações & integrações (HubSpot, Bling, APIs)  │
+│   [✓] Dados abertos, mapas e geoprocessamento          │
+│   [✓] Full Stack: Front → Back → Infra própria         │
 │                                                         │
 │   > STATUS: Do pixel ao pipeline — cada camada         │
 │     da stack tem minha assinatura.                     │
@@ -35,7 +36,10 @@
 
 <br>
 
-<a href="https://brunokobi.netlify.app/"><img src="https://img.shields.io/badge/💻_BRUNOKOBI.DEV-PORTFÓLIO-006622?style=for-the-badge&labelColor=006622" /></a>
+<a href="https://brunokobi.tech/"><img src="https://img.shields.io/badge/💻_BRUNOKOBI.TECH-PORTFÓLIO-006622?style=for-the-badge&labelColor=006622" /></a>
+<a href="https://brunokobi.tech/chat"><img src="https://img.shields.io/badge/🎙️_JARVIS-FALE_COMIGO-006622?style=for-the-badge&labelColor=006622" /></a>
+<a href="https://brunokobi.tech/blog"><img src="https://img.shields.io/badge/📝_BLOG-DEV-006622?style=for-the-badge&labelColor=006622" /></a>
+<br>
 <a href="https://brunokobi3d.netlify.app/"><img src="https://img.shields.io/badge/🛸_FULLSTACK_INVASION-PORTFÓLIO_3D-006622?style=for-the-badge&labelColor=006622" /></a>
 <a href="https://www.linkedin.com/in/brunokobi"><img src="https://img.shields.io/badge/LINKEDIN-CONECTAR-006622?style=for-the-badge&labelColor=006622" /></a>
 <a href="mailto:brunokobi2@hotmail.com"><img src="https://img.shields.io/badge/EMAIL-TRANSMITIR_SINAL-006622?style=for-the-badge&labelColor=006622" /></a>
@@ -58,157 +62,162 @@
 ## 🚀 Projetos em Destaque
 
 <table>
-
- <tr>
-  <td width="50%" valign="top">
-
-  ### 🗺️ [Dataset Grande Vitória (ES)](https://github.com/brunokobi/projeto_grande_vitoria_empresas)
-  Base aberta de **344 mil empresas** do ES — cadastro, sócios, sanções, dívida ativa e **flags de risco** (trabalho escravo, CEPIM,
-  IBAMA), cruzados de fontes públicas. Com **dashboard, API REST e MCP** (Claude) + classificação de leads.
-
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-  ![MCP](https://img.shields.io/badge/MCP-8A2BE2?style=flat-square)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-  📦 `brunokobi/projeto_grande_vitoria_empresas`
-
-  [![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/projeto_grande_vitoria_empresas)
-
-  </td>
-  <td width="50%" valign="top">
-
-  ### 🏆 [Tabela ACFDV](https://github.com/brunokobi/tabela_acfdv)
-  **Organizador de campeonatos de e-futebol** (EA Sports FC, eFootball) do zero — sorteio automático de grupos e mata-mata, tabela
-  de classificação com critérios de desempate configuráveis, chaveamento visual e suporte a ida e volta. 100% client-side, sem backend.
-
-  ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-  ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
-
-  📦 `brunokobi/tabela_acfdv`
-
-  [![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/tabela_acfdv)
-
-  </td>
-  </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 🔤 [Letrinhas Mágicas](https://github.com/brunokobi/benjamimteclado)
-App infantil pra aprender letras apertando o teclado — letra gigante animada, **24 bichinhos** sorteados com som próprio, fala em voz (pt-BR), rastro de estrelas e cenário dia/entardecer/noite automático. Feito com carinho pro meu filho.
+### 🗺️ [Dataset Grande Vitória (ES)](https://empresas.brunokobi.tech)
+Base aberta com **367 mil empresas ativas** e **243 mil sócios** de 7 municípios da Grande Vitória, cruzando cadastro, dívida ativa, sanções, infrações ambientais, contratos públicos e **5,2 milhões de registros de processos** de 25+ fontes oficiais. Mapa com todas as empresas, risco geológico e ambiental, nota de integridade, **API REST e servidor MCP**. Os números se atualizam sozinhos.
 
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MapLibre](https://img.shields.io/badge/MapLibre-0081C6?style=flat-square&logo=maplibre&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-8A2BE2?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
 
-📦 `brunokobi/benjamimteclado`
-
-[![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/benjamimteclado)
+[![Demo](https://img.shields.io/badge/🌐_DEMO-00FF41?style=flat-square&labelColor=0D0208)](https://empresas.brunokobi.tech)
+[![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/projeto_grande_vitoria_empresas)
 
 </td>
 <td width="50%" valign="top">
 
-### 🛸 [Fullstack Invasion](https://github.com/brunokobi/brunobokigame)
-Portfólio **3D interativo e gamificado** — controle um UFO com física real (Rapier) enquanto explora meu trabalho num ambiente WebGL imersivo.
+### 🎙️ [JARVIS — Assistente com Voz](https://brunokobi.tech/chat)
+O assistente do meu portfólio: responde sobre carreira, projetos e tecnologias **por texto ou por voz**. O microfone transcreve no **Whisper** e a resposta é falada pelo **Piper TTS**, os dois na minha VPS. O agente roda em **n8n self-hosted** com NVIDIA Nemotron via OpenRouter e responde só com um perfil gerado no build: se não sabe, diz que não sabe.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6566F1?style=flat-square)
+![NVIDIA](https://img.shields.io/badge/NVIDIA_Nemotron-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper.cpp-412991?style=flat-square)
+![Piper](https://img.shields.io/badge/Piper_TTS-0D0208?style=flat-square)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-📦 `brunokobi/brunobokigame`
-
-[![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/brunobokigame)
+[![Demo](https://img.shields.io/badge/🌐_DEMO-00FF41?style=flat-square&labelColor=0D0208)](https://brunokobi.tech/chat)
+[![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/projeto-portifolio/tree/main/src/components/ChatWidget)
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 🗺️ [Frota Realtime RJ](https://github.com/brunokobi/frotarealtime)
-**Monitoramento GPS WebGL** de alta performance da frota do Rio — +4.000 pontos simultâneos. Arquitetura Zero-bottleneck.
+### ⚽ [Copa Aspirador](https://copaaspirador.brunokobi.tech)
+**Futebol arcade 5x5 de robôs aspiradores** feito 100% em Python (pygame) e rodando no navegador via **WebAssembly**. Campanha com história em 3 atos, carreira de clubes, Modo Robôs com garagem e habilidades, torcida, narrador e **128 escudos em pixel art desenhados por código**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-1F7A1F?style=flat-square)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
+
+[![Demo](https://img.shields.io/badge/🌐_JOGAR-00FF41?style=flat-square&labelColor=0D0208)](https://copaaspirador.brunokobi.tech)
+[![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/soccerrobo)
+
+</td>
+<td width="50%" valign="top">
+
+### 📋 [BPF Check](https://bpfcheck.netlify.app/)
+**PWA de auditoria sanitária offline-first** (RDC 216/2004 da ANVISA), publicado na Google Play. Auditorias, respostas e fotos ficam no aparelho e sincronizam sozinhas ao reconectar, com fila idempotente e resolução de conflitos. Dashboard de conformidade, relatórios e chat com IA. Backend próprio em **FastAPI + PostgreSQL** na VPS, migrado do Supabase.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-Offline--First-6D28D9?style=flat-square)
+
+[![Demo](https://img.shields.io/badge/🌐_DEMO-00FF41?style=flat-square&labelColor=0D0208)](https://bpfcheck.netlify.app/)
+[![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/bpfcheck)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💻 [Portfólio Bruno Kobi](https://brunokobi.tech)
+**Globo 3D (ESRI ArcGIS) com dados em tempo real**: satélites, ISS, terremotos, vulcões, furacões, incêndios, vento, clima e qualidade do ar. Assistente JARVIS com voz, painel de notícias de IA com 50+ feeds, blog técnico, 9 idiomas, HTML por rota para SEO e selo de status da infra própria. 190+ testes Vitest + Playwright e CI no GitHub Actions.
+
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=esri&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+[![Demo](https://img.shields.io/badge/🌐_DEMO-00FF41?style=flat-square&labelColor=0D0208)](https://brunokobi.tech)
+[![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/projeto-portifolio)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚌 [Frota Realtime RJ](https://frotarealtime.netlify.app/)
+**Monitoramento GPS em WebGL** de +4.000 ônibus do Rio em tempo real. Proxy serverless comprime o payload em 70%, interpolação a 60 FPS, cores por velocidade calculadas na GPU, clustering por zoom e rastro das últimas posições.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MapLibre](https://img.shields.io/badge/MapLibre-0081C6?style=flat-square&logo=maplibre&logoColor=white)
 ![Netlify Edge](https://img.shields.io/badge/Netlify_Edge-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
-📦 `brunokobi/frotarealtime`
-
+[![Demo](https://img.shields.io/badge/🌐_DEMO-00FF41?style=flat-square&labelColor=0D0208)](https://frotarealtime.netlify.app/)
 [![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/frotarealtime)
 
 </td>
-<td width="50%" valign="top">
-
-### 💻 [Portfolio Bruno](https://github.com/brunokobi/projeto-portifolio)
-Full Stack **orientado a eventos** — feeds globais, mapas interativos e IA integrada numa experiência coesa.
-
-![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google%20gemini&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-FF2D20?style=flat-square&logo=esri&logoColor=white)
-
-📦 `brunokobi/projeto-portifolio`
-
-[![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/projeto-portifolio)
-
-</td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 [Arkon: A Fenda do Aglomerado](https://github.com/brunokobi/arkon-game)
-**Browser game multiplayer 2D** top-down estilo Tibia — grinding, PvP, facções e sátira política brasileira.
+### 🏆 [Tabela ACFDV](https://tabelaacfdv.netlify.app)
+**Organizador de campeonatos de e-futebol** (EA Sports FC, eFootball) do zero: sorteio de grupos e mata-mata, desempate configurável, chaveamento visual com W.O. automático e ida e volta com pênaltis. 100% no navegador, sem backend.
 
-![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
+
+[![Demo](https://img.shields.io/badge/🌐_DEMO-00FF41?style=flat-square&labelColor=0D0208)](https://tabelaacfdv.netlify.app)
+[![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/tabela_acfdv)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔤 [Letrinhas Mágicas](https://benjamimteclado.netlify.app)
+App infantil para aprender letras apertando o teclado: letra gigante animada, **24 bichinhos** com som próprio, narração em voz (pt-BR) e cenários que mudam sozinhos. Feito com carinho pro meu filho, com bloqueio de atalhos para uso em tablet.
+
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Phaser 4](https://img.shields.io/badge/Phaser_4-E91E63?style=flat-square)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-📦 `brunokobi/arkon-game`
-
-[![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/arkon-game)
-
-</td>
-<td width="50%" valign="top">
-
-### 📋 [BPF Check](https://github.com/brunokobi/bpfcheck)
-**PWA Offline-First** auditora para vistorias sanitárias (RDC 216). SUS Score 81.4, desenvolvida para o IFES.
-
-![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-Offline--First-6D28D9?style=flat-square)
+![Web Speech API](https://img.shields.io/badge/Web_Speech_API-0D0208?style=flat-square)
 
-📦 `brunokobi/bpfcheck`
-
-[![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/bpfcheck)
+[![Demo](https://img.shields.io/badge/🌐_DEMO-00FF41?style=flat-square&labelColor=0D0208)](https://benjamimteclado.netlify.app)
+[![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/benjamimteclado)
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [chatBruno](https://github.com/brunokobi)
-**Assistente virtual Multi-Agente com RAG**. Roteamento estruturado por domínios, integração nativa n8n Chat UI e busca semântica com PostgreSQL (pgvector) rodando em AWS EC2.
+### 🛸 [Fullstack Invasion](https://brunokobi3d.netlify.app)
+Portfólio **3D interativo e gamificado**: controle um UFO com física real e "abduza" as vacas que representam minhas stacks num ambiente WebGL.
 
-![n8n](https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-📦 `brunokobi/chatbruno`
+[![Demo](https://img.shields.io/badge/🌐_DEMO-00FF41?style=flat-square&labelColor=0D0208)](https://brunokobi3d.netlify.app)
+[![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/brunokobigame)
 
-[![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi)
+</td>
+<td width="50%" valign="top">
+
+### 🎮 [Arkon: A Fenda do Aglomerado](https://arkonkobi.netlify.app)
+**Browser game multiplayer 2D** em tempo real, estilo Tibia: grinding, PvP, facções e sátira política brasileira. Em desenvolvimento.
+
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Phaser 4](https://img.shields.io/badge/Phaser_4-E91E63?style=flat-square)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+[![Demo](https://img.shields.io/badge/🌐_DEMO-00FF41?style=flat-square&labelColor=0D0208)](https://arkonkobi.netlify.app)
+[![Repositório](https://img.shields.io/badge/📂_ACESSAR_REPO-00FF41?style=flat-square&labelColor=0D0208)](https://github.com/brunokobi/arkon-game)
 
 </td>
 </tr>
@@ -218,35 +227,59 @@ Full Stack **orientado a eventos** — feeds globais, mapas interativos e IA int
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
+<sub>root@bruno-kobi:~$ tail ~/blog/posts.log</sub>
+
+## 📝 Últimos Posts do Blog
+
+| Data | Post |
+|:---:|:---|
+| 14/11/2026 | 🎙️ [Dando voz ao JARVIS: Whisper e Piper rodando na minha VPS](https://brunokobi.tech/blog/jarvis-whisper-piper) |
+| 11/11/2026 | 🗺️ [Dataset de Empresas da Grande Vitória: de 344 mil para 367 mil CNPJs, com processos, sócios e riscos](https://brunokobi.tech/blog/grande-vitoria-empresas) |
+| 07/11/2026 | ⚽ [Copa Aspirador: futebol de robôs aspiradores feito em Python que roda no navegador](https://brunokobi.tech/blog/copa-aspirador) |
+| 31/10/2026 | 🌍 [O globo do meu portfólio: todas as fontes de dados em tempo real (e as que não deram certo)](https://brunokobi.tech/blog/globo-tempo-real) |
+| 20/09/2026 | ☁️ [Como a Oracle "comeu" minha VPS de graça](https://brunokobi.tech/blog/oracle-vps-free-tier) |
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
 <sub>root@bruno-kobi:~$ cat ~/skills/stack.txt</sub>
 
 ## 🧠 Tech Stack
 
-### 🎨 Frontend & 3D
+### 🎨 Frontend, 3D & Mapas
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)
+![Phaser](https://img.shields.io/badge/Phaser-E91E63?style=flat-square)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=esri&logoColor=white)
+![MapLibre](https://img.shields.io/badge/MapLibre-0081C6?style=flat-square&logo=maplibre&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white)
 ![Angular](https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white)
-![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 
-### 🤖 IA & Automação
+### 🤖 IA, Voz & Automação
 ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google%20gemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6566F1?style=flat-square)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square)
+![Piper TTS](https://img.shields.io/badge/Piper_TTS-0D0208?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-8A2BE2?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
 
 ### ⚙️ Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeIgniter&logoColor=white)
@@ -257,9 +290,15 @@ Full Stack **orientado a eventos** — feeds globais, mapas interativos e IA int
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -271,10 +310,11 @@ Full Stack **orientado a eventos** — feeds globais, mapas interativos e IA int
 
 | | Curso | Instituição | Período |
 |:---:|:---|:---|:---:|
-| 🚀 | Aluno Especial — Mestrado em TI (IA) | UFES | 2025–2026 |
-| 📚 | Mestrado em Computação Aplicada (IA) | IFES | 2022–2024 |
+| 🚀 | Aluno Especial — Mestrado em Tecnologia da Informação | UFES | 2025–2026 |
+| 🛠️ | Pós-Graduação em Cultura Maker e Educação 4.0 | IFES | 2025 |
+| 📚 | Mestrado em Computação Aplicada, ênfase em IA (não concluído) | IFES | 2022–2024 |
 | 🎓 | Bacharel em Sistemas de Informação | UniSales | 2017–2020 |
-| 💻 | Técnico em Informática | IFES | 2003–2004 |
+| 💻 | Técnico em Informática | IFES | 2003–2005 |
 
 ---
 
